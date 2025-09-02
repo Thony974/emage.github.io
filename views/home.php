@@ -66,7 +66,7 @@
     <button class="carrousel_button seventh_button"></button>
 </div>
 
-<section>
+<section class="home_section">
     <h1 class="section_title red" data-aos="zoom_in" data-aos-duration="2000">Je vous comprends</h1>
     <div class="section_content">
         <img src="../assets/img/accueil/stone_with_butterfly.png" alt="section" class="section_img">
@@ -78,7 +78,7 @@
         </div>
     </div>
 </section>
-<section>
+<section class="home_section">
     <h2 class="section_title red" data-aos="fade_in" data-aos-duration="2000">Faites le premier pas sans pression</h2>
     <div class="section_content">
         <a href="#" class="cards_pack" data-aos="zoom-in" data-aos-duration="2000">
@@ -110,7 +110,7 @@
         </a>
     </div>
 </section>
-<section>
+<section class="home_section">
     <h1 class="section_title red" data-aos="zoom_in" data-aos-duration="2000">Ma promesse</h1>
     <div class="section_content">
         <img src="../assets/img/accueil/mirror_nature.png" alt="section" class="section_img">
@@ -125,19 +125,18 @@
     </div>
 </section>
 <section class="img_full_screen">
-    <div class="front_text" data-aos="zoom_in" data-aos-duration="2000">
-        <div class="section_content">
-            <div class="section_text">
-                <p>Faisons connaissance. Je vous propose un échange sincère, sans pression, pour voir si je peux vous aider.</p>
-                <p>Sinon, je vous recommanderai quelqu’un d’autre, avec tout autant de cœur.</p>
-            </div>
+    <div class="cloud" data-aos="zoom_in" data-aos-duration="3000">
+        <div class="home_blur"></div>
+        <div class="cloud_text green">
+            <p>Faisons connaissance. Je vous propose un échange sincère, sans pression, pour voir si je peux vous aider.</p>
+            <p>Sinon, je vous recommanderai quelqu’un d’autre, avec tout autant de cœur.</p>
         </div>
     </div>
 </section>
 
-<section>
-    <div class="cloud" data-aos="flip-left" data-aos-duration="2000">
-        <button>Évaluer ma situation</button>
+<section class="home_section">
+    <div class="form_button" data-aos="flip-left" data-aos-duration="2000">
+        <a href="../controllers/form_controller.php">Évaluer ma situation</a>
     </div>
 </section>
 

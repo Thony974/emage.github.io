@@ -7,62 +7,54 @@
     <p>Vous n'avez pas besoin d'un grand plan parfait. Vous avez besoin de <b class="green_forest">petits pas structurés</b>, qui vous redonnent de la marge, de la vision, de la sérénité.</p>
 </div>
 
-<div class="arrow_box">
-    <div class="arrow"></div>
-</div>
-
-<h1></h1>
 <div class="progression">
-    <div class="section_left">
-        <div class="content box_left" data-aos="fade-right" data-aos-duration="2000">
-            <h2 class="section_title green_forest">1. Dégager le brouillard</h2>
-            <p>Je suis perdue. J’ai tout dans la tête, mais rien ne prend forme.</p>
-            <ul>
-                <li><b class="webkit red">Ce que vous ressentez</b> : surcharge mentale, priorités floues, difficulté à prendre du recul</li>
-                <li><b class="webkit yellow">Ce que je fais avec vous</b> : audit express, débrief stratégique, mise à plat de votre réalité</li>
-                <li><b class=" webkit green_forest">Ce que vous gagnez</b> : une photographie claire de votre situation, un soulagement immédiat, des premiers choix posés</li>
-            </ul>
-        </div>
-        <div class="content_hide">
-        </div>
-    </div>
-    <div class="section_right">
-        <div class="content_hide">
-        </div>
-        <div class="content box_right" data-aos="fade-left" data-aos-duration="2000">
-            <h2 class="section_title green_forest">2. Structurer pour respirer</h2>
-            <p>Je fais plein de choses, mais j’ai l’impression de courir dans tous les sens.</p>
-            <ul>
-                <li><b class="webkit red">Ce que vous ressentez</b> : perte de sens, trop-plein d’outils ou de projets, charge mentale élevée</li>
-                <li><b class="webkit yellow">Ce que je fais avec vous</b> : planification, priorisation, organisation concrète de vos activités et canaux</li>
-                <li><b class=" webkit green_forest">Ce que vous gagnez</b> : un plan d’action apaisant, une clarté nouvelle sur vos vraies zones d’impact, de l’énergie rendue</li>
-            </ul>
+    <div class="sections_left">
+        <div class="section_progression">
+            <div class="content box_left" data-aos="fade-right" data-aos-duration="2000">
+                <h2 class="section_title green_forest">1. Dégager le brouillard</h2>
+                <p>Je suis perdue. J’ai tout dans la tête, mais rien ne prend forme.</p>
+                <ul>
+                    <li><b class="webkit red">Ce que vous ressentez</b> : surcharge mentale, priorités floues, difficulté à prendre du recul</li>
+                    <li><b class="webkit yellow">Ce que je fais avec vous</b> : audit express, débrief stratégique, mise à plat de votre réalité</li>
+                    <li><b class=" webkit green_summer">Ce que vous gagnez</b> : une photographie claire de votre situation, un soulagement immédiat, des premiers choix posés</li>
+                </ul>
+            </div>
+            <div class="section_progression">
+                <div class="content box_left" data-aos="fade-right" data-aos-duration="2000">
+                    <h2 class="section_title green_forest">3. Avancer avec fluidité</h2>
+                    <p>Je veux que ça tourne sans moi 24h/24. Je veux du souffle.</p>
+                    <ul>
+                        <li><b class="webkit red">Ce que vous ressentez</b> : difficulté à suivre, manque de système, besoin de délégation ou d’automatisation</li>
+                        <li><b class="webkit yellow">Ce que je fais avec vous</b> : accompagnement opérationnel, systémisation, suivi de vos projets et préparations</li>
+                        <li><b class=" webkit green_summer">Ce que vous gagnez</b> : une activité qui tient la route, moins de charge à l’esprit, une dynamique durable et alignée</li>
+                    </ul>
+                </div>
+            </div>
         </div>
     </div>
-    <div class="section_left">
-        <div class="content box_left" data-aos="fade-right" data-aos-duration="2000">
-            <h2 class="section_title green_forest">3. Avancer avec fluidité</h2>
-            <p>Je veux que ça tourne sans moi 24h/24. Je veux du souffle.</p>
-            <ul>
-                <li><b class="webkit red">Ce que vous ressentez</b> : difficulté à suivre, manque de système, besoin de délégation ou d’automatisation</li>
-                <li><b class="webkit yellow">Ce que je fais avec vous</b> : accompagnement opérationnel, systémisation, suivi de vos projets et préparations</li>
-                <li><b class=" webkit green_forest">Ce que vous gagnez</b> : une activité qui tient la route, moins de charge à l’esprit, une dynamique durable et alignée</li>
-            </ul>
+    <div class="arrow"></div>
+    <div class="sections_right">
+        <div class="section_progression">
+            <div class="content box_right" data-aos="fade-left" data-aos-duration="2000">
+                <h2 class="section_title green_forest">2. Structurer pour respirer</h2>
+                <p>Je fais plein de choses, mais j’ai l’impression de courir dans tous les sens.</p>
+                <ul>
+                    <li><b class="webkit red">Ce que vous ressentez</b> : perte de sens, trop-plein d’outils ou de projets, charge mentale élevée</li>
+                    <li><b class="webkit yellow">Ce que je fais avec vous</b> : planification, priorisation, organisation concrète de vos activités et canaux</li>
+                    <li><b class=" webkit green_summer">Ce que vous gagnez</b> : un plan d’action apaisant, une clarté nouvelle sur vos vraies zones d’impact, de l’énergie rendue</li>
+                </ul>
+            </div>
         </div>
-        <div class="content_hide">
-        </div>
-    </div>
-    <div class="section_right">
-        <div class="content_hide">
-        </div>
-        <div class="content box_right" data-aos="fade-left" data-aos-duration="2000">
-            <h2 class="section_title green_forest">4. Consolider & alléger</h2>
-            <p>Je veux un fonctionnement qui tienne dans le temps, même dans les creux.</p>
-            <ul>
-                <li><b class="webkit red">Ce que vous ressentez</b> : fatigue de pilotage, perte de motivation régulière, besoin de soutenabilité</li>
-                <li><b class="webkit yellow">Ce que je fais avec vous</b> : bilan, réglages fins, passage à l’amélioration continue, suivi mensuel si besoin</li>
-                <li><b class=" webkit green_forest">Ce que vous gagnez</b> : un projet qui vous respecte, une gestion apaisée, une posture de cheffe d’orchestre en paix avec elle-même</li>
-            </ul>
+        <div class="section_progression">
+            <div class="content box_right" data-aos="fade-left" data-aos-duration="2000">
+                <h2 class="section_title green_forest">4. Consolider & alléger</h2>
+                <p>Je veux un fonctionnement qui tienne dans le temps, même dans les creux.</p>
+                <ul>
+                    <li><b class="webkit red">Ce que vous ressentez</b> : fatigue de pilotage, perte de motivation régulière, besoin de soutenabilité</li>
+                    <li><b class="webkit yellow">Ce que je fais avec vous</b> : bilan, réglages fins, passage à l’amélioration continue, suivi mensuel si besoin</li>
+                    <li><b class=" webkit green_summer">Ce que vous gagnez</b> : un projet qui vous respecte, une gestion apaisée, une posture de cheffe d’orchestre en paix avec elle-même</li>
+                </ul>
+            </div>
         </div>
     </div>
 </div>
@@ -96,9 +88,9 @@
 <h2 class="first_step" data-aos="fade_in" data-aos-duration="3000">Le chemin vers votre version sereine de l’entrepreneuriat commence ici</h2>
 <strong class="last_sentence green_forest">Un pas à la fois. Mais un vrai pas.</strong>
 
-<section>
-    <div class="cloud" data-aos="flip-left" data-aos-duration="2000">
-        <button>Évaluer ma situation</button>
+<section class="home_section">
+    <div class="form_button" data-aos="flip-left" data-aos-duration="2000">
+        <a href="../controllers/form_controller.php">Évaluer ma situation</a>
     </div>
 </section>
 

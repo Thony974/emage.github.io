@@ -6,9 +6,9 @@
                 <a href="">Politique de confidentialité</a>
             </div>
             <div class="reseaux">
-                <a href=""><img src="../assets/img/reseaux/facebook.png" alt="facebook"></a>
-                <a href=""><img src="../assets/img/reseaux/instagram.jpg" alt="instagram"></a>
-                <a href=""><img src="../assets/img/reseaux/linkedin.jpg" alt="linkedin"></a>
+                <a href="https://www.facebook.com/RomyCMT" target="_blank"><img src="../assets/img/reseaux/facebook.png" alt="facebook"></a>
+                <a href="https://www.instagram.com/chen.romy/" target="_blank"><img src="../assets/img/reseaux/instagram.jpg" alt="instagram"></a>
+                <a href="https://www.linkedin.com/in/romy-chen-min-tao-806a6817/" target="_blank"><img src="../assets/img/reseaux/linkedin.jpg" alt="linkedin"></a>
             </div>
 
         </footer>
