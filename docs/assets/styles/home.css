@@ -1,0 +1,245 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Felipa&display=swap');
+
+.title_home {
+    text-align: center;
+    font-size: 3em;
+    color: #20681B;
+    font-family: 'Dancing Script', cursive;
+}
+
+.intro {
+    overflow: hidden;
+}
+
+.slide {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.slide_left {
+    padding-left: 1em;
+}
+
+.intro_title {
+    font-size: 2.5em;
+    margin: 1em 0;
+    font-family: 'Dancing Script', cursive;
+    font-weight: 100;
+}
+
+.bold {
+    font-weight: 900;
+}
+
+.intro_text {
+    font-size: 1.5em;
+}
+
+.slide img {
+    height: 250px;
+}
+
+.slide_right {
+    width: 100%;
+    text-align: right;
+}
+
+.slide_up {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.carrousel_title {
+    font-size: 2.5em;
+    margin: 1em 0;
+    text-align: center;
+    color: #E1AD01;
+    font-family: 'Dancing Script', cursive;
+}
+
+.slider {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1520px;
+    height: 500px;
+    overflow: hidden;
+}
+
+.slides {
+    width: 300%;
+    height: 500px;
+    display: flex;
+}
+
+.slide_item {
+    width: 100%;
+    transition: 2s;
+}
+
+.slide_img {
+    width: 1520px;
+    height: 500px;
+}
+
+.carrousel_buttons {
+    display: flex;
+    justify-content: center;
+}
+
+.carrousel_button {
+    display: flex;
+    margin: 1em 0.5em;
+    align-items: center;
+    width: 10px;
+    height: 10px;
+    background-color: white;
+    border: 1px solid #000;
+    border-radius: 50%;
+}
+
+.carrousel_button:hover {
+    cursor: pointer;
+}
+
+.home_section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 1em 0;
+}
+
+.section_title {
+    margin: auto;
+    width: 100%;
+    text-align: center;
+    font-size: 2.5em;
+    font-family: 'Dancing Script', cursive;
+    margin: 0.5em 0;
+}
+
+.section_content {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-items: start;
+    width: 100%;
+    margin: auto;
+}
+
+.section_img {
+    width: 30%;
+    height: 10%;
+}
+
+.section_text {
+    display: flex;
+    flex-direction: column;
+    font-size: 1.3em;
+    text-align: center;
+    margin: auto;
+    color: #000;
+}
+
+.text_title {
+    font-style: italic;
+    margin-bottom: 0.5em;
+}
+
+.cards_pack {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    width: 350px;
+    padding: 0.5em;
+    box-shadow: 3px 3px 5px #20681B;
+    border-radius: 10px;
+}
+
+.pack_img {
+    width: 300px;
+    height: 350px;
+    margin: auto;
+}
+
+h3 {
+    font-size: 1.5em;
+    color: black;
+    font-weight: 400;
+    margin: 0.5em 0;
+}
+
+.img_full_screen {
+    margin-top: 2em;
+    background-image: url('../img/accueil/mirror_nature.png');
+    background-size: cover;
+    background-position: center;
+    height: 200px;
+    width: 100%;
+    align-items: center;
+    display: flex;
+}
+
+.cloud {
+    display: flex;
+    margin: auto;
+    width: 100%;
+    height: 200px;
+}
+
+.home_blur {
+    position: absolute;
+    inset: 0;
+    width: 90%;
+    height: 70%;
+    margin: auto;
+    border-radius: 50%;
+    background: white;
+    filter: blur(60px);
+    opacity: 0.95;
+}
+
+.cloud_text {
+    display: flex;
+    font-size: 1.5em;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    z-index: 1;
+}
+
+.form_button {
+    display: flex;
+}
+
+.form_button a {
+    width: 100%;
+    background-color: white;
+    border-top: 2px solid #20681B;
+    border-right: 4px solid #20681B;
+    border-bottom: 4px solid #20681B;
+    border-left: 2px solid #20681B;
+    color: #20681B;
+    border-radius: 15px;
+    font-size: 2em;
+    cursor: pointer;
+    padding: 10px;
+}
+
+.form_button a:hover {
+    background-color: #49DA3F;
+}
+
+.form_button a:active {
+    border-top: 4px solid #20681B;
+    border-right: 2px solid #20681B;
+    border-bottom: 2px solid #20681B;
+    border-left: 4px solid #20681B;
+}

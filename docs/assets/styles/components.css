@@ -1,0 +1,171 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Felipa&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.logo {
+    display: flex;
+    padding: 1em 0 0 1em;
+}
+
+.logo img {
+    width: 200px;
+    height:100px;
+    border-radius: 50%;
+}
+
+.site_name {
+    display: flex;
+    margin: 1em 0;
+    padding: 0;
+    font-size: 3em;
+    font-family: 'Dancing Script', cursive;
+}
+
+.red {
+    color: #E80809;
+}
+
+.green{
+    color: #133F1F;
+}
+
+.green_forest {
+    color: #20681B;
+}
+
+.green_summer{
+    color: #49DA3F;
+}
+
+.yellow {
+    color: #E1AD01;
+}
+
+#nav {
+    display: flex;
+    flex-direction: column;
+    height: 7em;
+    align-items: center;
+    border-radius: 50%;
+    border: 1px solid #000;
+    background-color: #133F1F;
+    z-index: 2;
+}
+
+#burger {
+    background-color: transparent;
+    border: none;
+    margin: auto;
+}
+
+.burger {
+    display: flex;
+    width: 50px;
+    height: 50px;
+    background-color: transparent;
+}
+
+#navbar {
+    display: none;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+#navbar a {
+    color: #fff;
+    font-size: 1.5em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.button_navbar {
+    background-color: #133F1F;
+    color: #FFFFFF;
+    border: none;
+    font-size: 1.5em;
+    cursor: pointer;
+    text-shadow: 5px 5px 5px #000;
+}
+
+#navbar button:active {
+    border: none;
+}
+
+@media (min-width: 768px) {
+    #burger {
+        display: none;
+    }
+
+    #nav {
+        width: 60%;
+        border-radius: 0 0 1em 30em;
+        padding: 0;
+        right: 0;
+        top: 0;
+    }
+
+    #navbar {
+        display: flex;
+        flex-wrap: wrap;
+        margin: auto;
+        flex-direction: row;
+        justify-content: space-evenly;
+        width: 90%;
+    }
+
+    #navbar button {
+        color: #FFFFFF;
+        padding: 1% 1%;
+        cursor: pointer;
+        text-shadow: 5px 5px 5px #FFFFFF;
+    }
+}
+
+
+
+
+
+footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    border-top: #000 solid 1px;
+    position: relative;
+    bottom: 0;
+}
+
+footer .info {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+}
+
+.info a {
+    text-decoration: none;
+    color: #133F1F;
+}
+
+.reseaux {
+    margin-top: 1em;
+}
+
+.reseaux img {
+    width: 20px;
+    height: 20px;
+    margin: 0 5px;
+}
