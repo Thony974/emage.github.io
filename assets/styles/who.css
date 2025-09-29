@@ -110,3 +110,22 @@
 .text_commitment {
     text-align: center;
 }
+
+@media only screen and (max-width: 768px) {
+    .section_container {
+        font-size: 0.8rem;
+    }
+    .who_section {
+        flex-direction: column;
+    }
+
+    .who_img {
+        display: flex;
+        margin: auto;
+        width: 100%;
+    }
+
+    .who_text {
+        width: 80%;
+    }
+}

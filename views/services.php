@@ -11,7 +11,7 @@
     <div class="sections_left">
         <div class="section_progression">
             <div class="content box_left" data-aos="fade-right" data-aos-duration="2000">
-                <h2 class="section_title green_forest">1. Dégager le brouillard</h2>
+                <h2 class="section_title green_forest">Dégager le brouillard</h2>
                 <p>Je suis perdue. J’ai tout dans la tête, mais rien ne prend forme.</p>
                 <ul>
                     <li><b class="webkit red">Ce que vous ressentez</b> : surcharge mentale, priorités floues, difficulté à prendre du recul</li>
@@ -21,7 +21,7 @@
             </div>
             <div class="section_progression">
                 <div class="content box_left" data-aos="fade-right" data-aos-duration="2000">
-                    <h2 class="section_title green_forest">3. Avancer avec fluidité</h2>
+                    <h2 class="section_title green_forest">Avancer avec fluidité</h2>
                     <p>Je veux que ça tourne sans moi 24h/24. Je veux du souffle.</p>
                     <ul>
                         <li><b class="webkit red">Ce que vous ressentez</b> : difficulté à suivre, manque de système, besoin de délégation ou d’automatisation</li>
@@ -36,7 +36,7 @@
     <div class="sections_right">
         <div class="section_progression">
             <div class="content box_right" data-aos="fade-left" data-aos-duration="2000">
-                <h2 class="section_title green_forest">2. Structurer pour respirer</h2>
+                <h2 class="section_title green_forest">Structurer pour respirer</h2>
                 <p>Je fais plein de choses, mais j’ai l’impression de courir dans tous les sens.</p>
                 <ul>
                     <li><b class="webkit red">Ce que vous ressentez</b> : perte de sens, trop-plein d’outils ou de projets, charge mentale élevée</li>
@@ -47,7 +47,7 @@
         </div>
         <div class="section_progression">
             <div class="content box_right" data-aos="fade-left" data-aos-duration="2000">
-                <h2 class="section_title green_forest">4. Consolider & alléger</h2>
+                <h2 class="section_title green_forest">Consolider & alléger</h2>
                 <p>Je veux un fonctionnement qui tienne dans le temps, même dans les creux.</p>
                 <ul>
                     <li><b class="webkit red">Ce que vous ressentez</b> : fatigue de pilotage, perte de motivation régulière, besoin de soutenabilité</li>

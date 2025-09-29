@@ -116,3 +116,24 @@
     margin: 1em auto;
     font-size: 1.5em;
 }
+
+@media only screen and (max-width: 768px) {
+    .progression {
+        flex-direction: column;
+        font-size: 0.8rem;
+    }
+    .box_right {
+        margin-top: 0.5rem;
+        box-shadow: 10px 10px 0 #20681b5f;
+    }
+    .box_left {
+        margin-top: 0.5rem;
+        box-shadow: 10px 10px 0 #20681b5f;
+    }
+    .content {
+        width: 100%;
+    }
+    .arrow {
+        display: none;
+    }
+}

@@ -30,7 +30,8 @@
     </div>
 </div>
 <h2 class="carrousel_title">Ça vous parle ?</h2>
-<div class="slider">
+
+<!-- <div class="slider">
     <div class="slides">
         <div class="slide_item first_item">
             <img src="../assets/img/carrousel/weed.png" alt="" class="slide_img">
@@ -64,7 +65,7 @@
     <button class="carrousel_button fifth_button"></button>
     <button class="carrousel_button sixth_button"></button>
     <button class="carrousel_button seventh_button"></button>
-</div>
+</div> -->
 
 <section class="home_section">
     <h1 class="section_title red" data-aos="zoom_in" data-aos-duration="2000">Je vous comprends</h1>
